@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 
-import 'cake_shop.dart';
+import 'cake_shop_list_ui.dart';
 
 class CakeShopDetailUi extends StatelessWidget {
   const CakeShopDetailUi({
