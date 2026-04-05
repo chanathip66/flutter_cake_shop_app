@@ -1,4 +1,7 @@
 # Flutter Cake Shop App
+
+แอปตัวอย่างรายวิชา Mobile App Development พัฒนาด้วย Flutter
+
 ---
 
 ## Features
@@ -22,6 +25,8 @@
 
 <video src="https://github.com/user-attachments/assets/ce1cf893-aa91-49b8-a866-06393b2c2efe" controls width="320"></video>
 
+> ถ้า player ไม่ขึ้นในบางมุมมอง ให้เปิดลิงก์ตรงนี้: https://github.com/user-attachments/assets/ce1cf893-aa91-49b8-a866-06393b2c2efe
+
 ---
 
 ## Tech Stack
@@ -35,4 +40,9 @@
 
 ---
 
+## Run Project
 
+```bash
+flutter pub get
+flutter run
+```

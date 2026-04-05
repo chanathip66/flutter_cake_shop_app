@@ -12,12 +12,12 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-  google_fonts: ^6.3.2
-  font_awesome_flutter: ^10.11.0
-  url_launcher: ^6.3.2
-  flutter_map: ^8.2.2
-  latlong2: ^0.9.1
-  carousel_slider: ^5.1.1
+  google_fonts: ^6.3.2 # ใช้ฟอนต์ฟรีจาก fonts.google.com
+  font_awesome_flutter: ^10.11.0 # ใช้ไอคอนจาก fontawesome.com
+  url_launcher: ^6.3.2 # เปิดเบอร์โทร/ลิงก์เว็บภายนอก
+  flutter_map: ^8.2.2 # แสดงแผนที่จาก OpenStreetMap
+  latlong2: ^0.9.1 # จัดการพิกัด latitude/longitude
+  carousel_slider: ^5.1.1 # สไลด์รูปภาพหน้า list
 
 dev_dependencies:
   flutter_test:
