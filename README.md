@@ -1,7 +1,5 @@
 # Flutter Cake Shop App
 
-แอปตัวอย่างรายวิชา Mobile App Development พัฒนาด้วย Flutter
-
 ---
 
 ## Features
@@ -13,19 +11,18 @@
 
 ---
 
-## Screenshots (Table)
+## Screenshots
 
 | Splash Screen | Cake Shop List | Cake Shop Detail |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/8c3bbf0f-c0f2-4751-af46-c9b8320e90a5" width="220" alt="Splash Screen" /> | <img src="https://github.com/user-attachments/assets/fdd86dba-a43f-420c-bc48-d2a12f15c756" width="220" alt="Cake Shop List" /> | <img src="https://github.com/user-attachments/assets/dda82133-b485-43ed-9ec6-2e2707eb3020" width="220" alt="Cake Shop Detail" /> |
+| <img src="https://github.com/user-attachments/assets/b7a195ac-770c-482a-924c-d77513cebbde" width="220" alt="Splash Screen" /> | <img src="https://github.com/user-attachments/assets/2d518069-1990-4fba-829f-843c5ba22523" width="220" alt="Cake Shop List" /> | <img src="https://github.com/user-attachments/assets/907bd33d-4d0a-403d-a565-9779ea8843ed" width="220" alt="Cake Shop Detail" /> |
 
 ---
 
 ## Demo Video
 
-<video src="https://github.com/user-attachments/assets/ce1cf893-aa91-49b8-a866-06393b2c2efe" controls width="320"></video>
+<video src="https://github.com/user-attachments/assets/7dc88317-2654-45ba-96f4-c01b2b860d4b" controls width="360"></video>
 
-> ถ้า player ไม่ขึ้นในบางมุมมอง ให้เปิดลิงก์ตรงนี้: https://github.com/user-attachments/assets/ce1cf893-aa91-49b8-a866-06393b2c2efe
 
 ---
 
@@ -40,9 +37,3 @@
 
 ---
 
-## Run Project
-
-```bash
-flutter pub get
-flutter run
-```
